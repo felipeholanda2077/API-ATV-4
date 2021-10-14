@@ -6,7 +6,7 @@
 
 # 👨🏻‍💻 Sobre o Projeto
 
-<h4>Atividade 4 do Senac</h4>
+<h4>Atividade 4 do Senac UC-8</h4>
 
 <br>
 
