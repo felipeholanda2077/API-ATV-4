@@ -18,12 +18,6 @@
 <br>
 <br>
 
-#### Imagem
-
-<h1 aling="center">
-   <img alt="Readme" title="Readme" src="PaginaREADME.png" />
-</h1>
-
   ### Tecnologias 🚀
 
   As seguintes ferramentas foram usadas na construção do projeto:
