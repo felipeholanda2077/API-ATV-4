@@ -27,7 +27,7 @@
   #### Ferramentas
 
   - [**VS CODE**](https://code.visualstudio.com/)
-  - [**PHPADMIN**]
+  - [**PHPADMIN**](https://localhost.com/)
 
 <br>
 
